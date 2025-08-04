@@ -1,0 +1,282 @@
+*************************
+Information of currently running processes. 
+*************************
+{'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'vms': 0.05859375}
+{'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'vms': 0.04296875}
+{'pid': 212, 'username': None, 'name': '', 'vms': 0.171875}
+{'pid': 256, 'username': None, 'name': 'Registry', 'vms': 11.80859375}
+{'pid': 680, 'username': None, 'name': 'csrss.exe', 'vms': 2.53125}
+{'pid': 692, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 13.14453125}
+{'pid': 708, 'username': None, 'name': 'smss.exe', 'vms': 1.14453125}
+{'pid': 844, 'username': None, 'name': 'svchost.exe', 'vms': 3.25}
+{'pid': 1088, 'username': None, 'name': 'wininit.exe', 'vms': 1.48046875}
+{'pid': 1096, 'username': None, 'name': 'csrss.exe', 'vms': 3.09375}
+{'pid': 1156, 'username': None, 'name': 'winlogon.exe', 'vms': 2.72265625}
+{'pid': 1228, 'username': None, 'name': 'services.exe', 'vms': 7.41796875}
+{'pid': 1248, 'username': None, 'name': 'LsaIso.exe', 'vms': 1.28125}
+{'pid': 1256, 'username': None, 'name': 'lsass.exe', 'vms': 13.66015625}
+{'pid': 1324, 'username': None, 'name': 'svchost.exe', 'vms': 2.8203125}
+{'pid': 1396, 'username': None, 'name': 'svchost.exe', 'vms': 16.796875}
+{'pid': 1416, 'username': None, 'name': 'fontdrvhost.exe', 'vms': 1.7265625}
+{'pid': 1424, 'username': None, 'name': 'fontdrvhost.exe', 'vms': 3.2109375}
+{'pid': 1440, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 1.4296875}
+{'pid': 1452, 'username': None, 'name': 'FileSyncHelper.exe', 'vms': 7.03515625}
+{'pid': 1484, 'username': None, 'name': 'WUDFHost.exe', 'vms': 18.16015625}
+{'pid': 1564, 'username': None, 'name': 'svchost.exe', 'vms': 12.5625}
+{'pid': 1620, 'username': None, 'name': 'svchost.exe', 'vms': 3.48828125}
+{'pid': 1696, 'username': None, 'name': 'WUDFHost.exe', 'vms': 1.51171875}
+{'pid': 1740, 'username': None, 'name': 'dwm.exe', 'vms': 491.58203125}
+{'pid': 1848, 'username': None, 'name': 'svchost.exe', 'vms': 2.68359375}
+{'pid': 1856, 'username': None, 'name': 'svchost.exe', 'vms': 1.40234375}
+{'pid': 1880, 'username': None, 'name': 'svchost.exe', 'vms': 8.484375}
+{'pid': 1888, 'username': None, 'name': 'svchost.exe', 'vms': 2.328125}
+{'pid': 1908, 'username': None, 'name': 'svchost.exe', 'vms': 3.79296875}
+{'pid': 1912, 'username': None, 'name': 'svchost.exe', 'vms': 5.3984375}
+{'pid': 1980, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 159.82421875}
+{'pid': 2068, 'username': None, 'name': 'svchost.exe', 'vms': 2.59765625}
+{'pid': 2084, 'username': None, 'name': 'svchost.exe', 'vms': 2.234375}
+{'pid': 2092, 'username': None, 'name': 'svchost.exe', 'vms': 6.8046875}
+{'pid': 2100, 'username': None, 'name': 'svchost.exe', 'vms': 3.62109375}
+{'pid': 2120, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'dllhost.exe', 'vms': 1.5625}
+{'pid': 2300, 'username': None, 'name': 'svchost.exe', 'vms': 3.10546875}
+{'pid': 2308, 'username': None, 'name': 'svchost.exe', 'vms': 3.6015625}
+{'pid': 2352, 'username': None, 'name': 'svchost.exe', 'vms': 1.7734375}
+{'pid': 2380, 'username': None, 'name': 'svchost.exe', 'vms': 2.1640625}
+{'pid': 2408, 'username': None, 'name': 'svchost.exe', 'vms': 2.2890625}
+{'pid': 2416, 'username': None, 'name': 'svchost.exe', 'vms': 2.17578125}
+{'pid': 2460, 'username': None, 'name': 'svchost.exe', 'vms': 7.88671875}
+{'pid': 2472, 'username': None, 'name': 'OffloadItemService.exe', 'vms': 2.98046875}
+{'pid': 2540, 'username': None, 'name': 'svchost.exe', 'vms': 11.71875}
+{'pid': 2572, 'username': None, 'name': 'svchost.exe', 'vms': 2.46875}
+{'pid': 2628, 'username': None, 'name': 'svchost.exe', 'vms': 1.734375}
+{'pid': 2776, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'jucheck.exe', 'vms': 4.15234375}
+{'pid': 2788, 'username': None, 'name': 'svchost.exe', 'vms': 3.1015625}
+{'pid': 2872, 'username': None, 'name': 'svchost.exe', 'vms': 1.77734375}
+{'pid': 2888, 'username': None, 'name': 'svchost.exe', 'vms': 6.84375}
+{'pid': 3040, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 9.37109375}
+{'pid': 3060, 'username': None, 'name': 'WUDFHost.exe', 'vms': 10.875}
+{'pid': 3228, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'WidgetService.exe', 'vms': 5.48828125}
+{'pid': 3324, 'username': None, 'name': 'svchost.exe', 'vms': 2.2578125}
+{'pid': 3512, 'username': None, 'name': 'svchost.exe', 'vms': 3.8359375}
+{'pid': 3564, 'username': None, 'name': 'svchost.exe', 'vms': 2.28515625}
+{'pid': 3620, 'username': None, 'name': 'svchost.exe', 'vms': 19.6015625}
+{'pid': 3672, 'username': None, 'name': 'svchost.exe', 'vms': 3.49609375}
+{'pid': 3684, 'username': None, 'name': 'svchost.exe', 'vms': 1.4609375}
+{'pid': 3692, 'username': None, 'name': 'svchost.exe', 'vms': 2.1640625}
+{'pid': 3708, 'username': None, 'name': 'IntelGraphicsSoftware.Service.exe', 'vms': 11.69921875}
+{'pid': 3760, 'username': None, 'name': 'svchost.exe', 'vms': 2.15234375}
+{'pid': 3836, 'username': None, 'name': 'MemCompression', 'vms': 2.34375}
+{'pid': 3904, 'username': None, 'name': 'svchost.exe', 'vms': 2.13671875}
+{'pid': 3992, 'username': None, 'name': 'svchost.exe', 'vms': 2.64453125}
+{'pid': 4000, 'username': None, 'name': 'DiagsCap.exe', 'vms': 24.11328125}
+{'pid': 4008, 'username': None, 'name': 'AppHelperCap.exe', 'vms': 10.5390625}
+{'pid': 4016, 'username': None, 'name': 'svchost.exe', 'vms': 2.10546875}
+{'pid': 4024, 'username': None, 'name': 'NetworkCap.exe', 'vms': 5.28125}
+{'pid': 4032, 'username': None, 'name': 'TouchpointAnalyticsClientService.exe', 'vms': 61.84765625}
+{'pid': 4040, 'username': None, 'name': 'SysInfoCap.exe', 'vms': 16.08203125}
+{'pid': 4052, 'username': None, 'name': 'dasHost.exe', 'vms': 1.16015625}
+{'pid': 4136, 'username': None, 'name': 'svchost.exe', 'vms': 5.01171875}
+{'pid': 4176, 'username': None, 'name': 'svchost.exe', 'vms': 4.43359375}
+{'pid': 4220, 'username': None, 'name': 'svchost.exe', 'vms': 2.52734375}
+{'pid': 4268, 'username': None, 'name': 'unsecapp.exe', 'vms': 2.3515625}
+{'pid': 4360, 'username': None, 'name': 'svchost.exe', 'vms': 2.99609375}
+{'pid': 4428, 'username': None, 'name': 'svchost.exe', 'vms': 23.34765625}
+{'pid': 4468, 'username': None, 'name': 'SearchIndexer.exe', 'vms': 30.71875}
+{'pid': 4492, 'username': None, 'name': 'svchost.exe', 'vms': 1.62109375}
+{'pid': 4628, 'username': None, 'name': 'svchost.exe', 'vms': 15.6640625}
+{'pid': 4636, 'username': None, 'name': 'svchost.exe', 'vms': 10.05859375}
+{'pid': 4684, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 61.7421875}
+{'pid': 4884, 'username': None, 'name': 'svchost.exe', 'vms': 10.953125}
+{'pid': 4900, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 19.74609375}
+{'pid': 4984, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 29.5546875}
+{'pid': 5028, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 1.69140625}
+{'pid': 5168, 'username': None, 'name': 'WmiPrvSE.exe', 'vms': 45.953125}
+{'pid': 5240, 'username': None, 'name': 'svchost.exe', 'vms': 8.9765625}
+{'pid': 5288, 'username': None, 'name': 'svchost.exe', 'vms': 3.43359375}
+{'pid': 5412, 'username': None, 'name': 'spoolsv.exe', 'vms': 9.87890625}
+{'pid': 5568, 'username': None, 'name': 'wlanext.exe', 'vms': 1.64453125}
+{'pid': 5616, 'username': None, 'name': 'svchost.exe', 'vms': 2.609375}
+{'pid': 5624, 'username': None, 'name': 'mc-fw-host.exe', 'vms': 226.33203125}
+{'pid': 5628, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 13.046875}
+{'pid': 5664, 'username': None, 'name': 'svchost.exe', 'vms': 1.75390625}
+{'pid': 5692, 'username': None, 'name': 'NgcIso.exe', 'vms': 2.4609375}
+{'pid': 5708, 'username': None, 'name': 'svchost.exe', 'vms': 2.15234375}
+{'pid': 5760, 'username': None, 'name': 'ETDService.exe', 'vms': 1.55078125}
+{'pid': 5784, 'username': None, 'name': 'svchost.exe', 'vms': 37.48046875}
+{'pid': 5796, 'username': None, 'name': 'svchost.exe', 'vms': 29.90625}
+{'pid': 5804, 'username': None, 'name': 'DtsApo4Service.exe', 'vms': 49.66015625}
+{'pid': 5816, 'username': None, 'name': 'ipfsvc.exe', 'vms': 1.7578125}
+{'pid': 5828, 'username': None, 'name': 'OfficeClickToRun.exe', 'vms': 32.25}
+{'pid': 5840, 'username': None, 'name': 'GooglePlayGamesServices.exe', 'vms': 91.0}
+{'pid': 5884, 'username': None, 'name': 'svchost.exe', 'vms': 3.6640625}
+{'pid': 5912, 'username': None, 'name': 'HPCommRecovery.exe', 'vms': 22.9921875}
+{'pid': 5928, 'username': None, 'name': 'svchost.exe', 'vms': 1.4765625}
+{'pid': 5948, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'OmenCommandCenterBackground.exe', 'vms': 315.93359375}
+{'pid': 5968, 'username': None, 'name': 'OneApp.IGCC.WinService.exe', 'vms': 33.84765625}
+{'pid': 5976, 'username': None, 'name': 'WmiPrvSE.exe', 'vms': 7.64453125}
+{'pid': 5996, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 8.828125}
+{'pid': 6012, 'username': None, 'name': 'IntelAudioService.exe', 'vms': 40.37109375}
+{'pid': 6048, 'username': None, 'name': 'ipf_uf.exe', 'vms': 2.28125}
+{'pid': 6056, 'username': None, 'name': 'svchost.exe', 'vms': 3.06640625}
+{'pid': 6092, 'username': None, 'name': 'servicehost.exe', 'vms': 26.61328125}
+{'pid': 6172, 'username': None, 'name': 'SpOrientationService.exe', 'vms': 6.09765625}
+{'pid': 6196, 'username': None, 'name': 'svchost.exe', 'vms': 2.19921875}
+{'pid': 6224, 'username': None, 'name': 'RtkAudUService64.exe', 'vms': 28.16796875}
+{'pid': 6308, 'username': None, 'name': 'svchost.exe', 'vms': 1.44921875}
+{'pid': 6336, 'username': None, 'name': 'WMIRegistrationService.exe', 'vms': 3.05078125}
+{'pid': 6344, 'username': None, 'name': 'svchost.exe', 'vms': 5.25}
+{'pid': 6364, 'username': None, 'name': 'svchost.exe', 'vms': 1.8515625}
+{'pid': 6460, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ETDCtrl.exe', 'vms': 7.4453125}
+{'pid': 6620, 'username': None, 'name': 'svchost.exe', 'vms': 2.37890625}
+{'pid': 6772, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ipf_helper.exe', 'vms': 2.15625}
+{'pid': 6888, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Widgets.exe', 'vms': 15.5078125}
+{'pid': 6952, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'powershell.exe', 'vms': 51.94140625}
+{'pid': 7124, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 3.2890625}
+{'pid': 7236, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'UserOOBEBroker.exe', 'vms': 2.01953125}
+{'pid': 8080, 'username': None, 'name': 'svchost.exe', 'vms': 3.8671875}
+{'pid': 8276, 'username': None, 'name': 'crashpad_handler.exe', 'vms': 1.30859375}
+{'pid': 8284, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'uihost.exe', 'vms': 20.76953125}
+{'pid': 9348, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'taskhostw.exe', 'vms': 7.80078125}
+{'pid': 9396, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'OmenInstallMonitor.exe', 'vms': 29.9375}
+{'pid': 9420, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'OverlayHelper.exe', 'vms': 31.76171875}
+{'pid': 9644, 'username': None, 'name': 'svchost.exe', 'vms': 1.62890625}
+{'pid': 9700, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 749.50390625}
+{'pid': 9736, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'mc-fw-host.exe', 'vms': 11.2109375}
+{'pid': 9764, 'username': None, 'name': 'svchost.exe', 'vms': 6.2265625}
+{'pid': 9900, 'username': None, 'name': 'svchost.exe', 'vms': 5.2578125}
+{'pid': 9916, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'sihost.exe', 'vms': 8.75}
+{'pid': 9948, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 2.34375}
+{'pid': 9960, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 12.01171875}
+{'pid': 9980, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 2.07421875}
+{'pid': 10076, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 2.1875}
+{'pid': 10176, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'SystemOptimizer.exe', 'vms': 42.85546875}
+{'pid': 10224, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 7.94921875}
+{'pid': 10696, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'WindowsTerminal.exe', 'vms': 182.25}
+{'pid': 10708, 'username': None, 'name': 'AggregatorHost.exe', 'vms': 3.7421875}
+{'pid': 10948, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'explorer.exe', 'vms': 546.2734375}
+{'pid': 11052, 'username': None, 'name': 'WmiApSrv.exe', 'vms': 2.29296875}
+{'pid': 11068, 'username': None, 'name': 'svchost.exe', 'vms': 10.61328125}
+{'pid': 11116, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 79.6328125}
+{'pid': 11176, 'username': None, 'name': 'svchost.exe', 'vms': 6.39453125}
+{'pid': 11360, 'username': None, 'name': 'svchost.exe', 'vms': 2.38671875}
+{'pid': 11564, 'username': None, 'name': 'svchost.exe', 'vms': 2.70703125}
+{'pid': 11608, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 138.95703125}
+{'pid': 11648, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'BridgeCommunication.exe', 'vms': 6.88671875}
+{'pid': 11688, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 38.2109375}
+{'pid': 11984, 'username': None, 'name': 'RtkAudUService64.exe', 'vms': 25.546875}
+{'pid': 12032, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 8.16015625}
+{'pid': 12072, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HPSystemEventUtilityBackground.exe', 'vms': 39.4296875}
+{'pid': 12280, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 14.2734375}
+{'pid': 12284, 'username': None, 'name': 'svchost.exe', 'vms': 1.8671875}
+{'pid': 12396, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'browserhost.exe', 'vms': 7.23828125}
+{'pid': 12404, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 33.53125}
+{'pid': 12696, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 3.95703125}
+{'pid': 12708, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'python.exe', 'vms': 11.578125}
+{'pid': 12952, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ApplicationFrameHost.exe', 'vms': 104.19921875}
+{'pid': 13024, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 2.3359375}
+{'pid': 13164, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'StartMenuExperienceHost.exe', 'vms': 101.76171875}
+{'pid': 13172, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 10.71484375}
+{'pid': 13184, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'SearchHost.exe', 'vms': 84.26171875}
+{'pid': 13240, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 3.80859375}
+{'pid': 13344, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HPMediaNetwork.exe', 'vms': 39.6640625}
+{'pid': 13516, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 2.25}
+{'pid': 13536, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 65.06640625}
+{'pid': 13572, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 110.18359375}
+{'pid': 13876, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 75.26953125}
+{'pid': 14004, 'username': None, 'name': 'svchost.exe', 'vms': 3.97265625}
+{'pid': 14028, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'backgroundTaskHost.exe', 'vms': 17.92578125}
+{'pid': 14056, 'username': None, 'name': 'svchost.exe', 'vms': 1.64453125}
+{'pid': 14636, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 14.484375}
+{'pid': 14688, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 9.9453125}
+{'pid': 14744, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ctfmon.exe', 'vms': 25.5390625}
+{'pid': 14884, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 124.40234375}
+{'pid': 15000, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'DesktopExtension.exe', 'vms': 26.38671875}
+{'pid': 15004, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'TabTip.exe', 'vms': 50.578125}
+{'pid': 15336, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 2.2890625}
+{'pid': 15456, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'backgroundTaskHost.exe', 'vms': 5.4140625}
+{'pid': 15584, 'username': None, 'name': 'svchost.exe', 'vms': 2.7734375}
+{'pid': 15664, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HP.myHP.exe', 'vms': 62.625}
+{'pid': 15732, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'SystemSettings.exe', 'vms': 115.06640625}
+{'pid': 15780, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 3.296875}
+{'pid': 15952, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'CrossDeviceService.exe', 'vms': 26.5234375}
+{'pid': 16080, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'LightStudio-background.exe', 'vms': 141.9296875}
+{'pid': 16136, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'TextInputHost.exe', 'vms': 174.046875}
+{'pid': 16204, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'mc-extn-browserhost.exe', 'vms': 6.16796875}
+{'pid': 16300, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 5.58984375}
+{'pid': 16356, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HPEnhancedLighting.Bg.exe', 'vms': 29.12890625}
+{'pid': 16652, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 13.25}
+{'pid': 16864, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HP.ContextAware.exe', 'vms': 32.37109375}
+{'pid': 17028, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 3.2265625}
+{'pid': 17076, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 2.49609375}
+{'pid': 17200, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'PhoneExperienceHost.exe', 'vms': 85.7421875}
+{'pid': 17220, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HP.SystemControl.Background.exe', 'vms': 39.01953125}
+{'pid': 17308, 'username': None, 'name': 'svchost.exe', 'vms': 1.7421875}
+{'pid': 17416, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'pet.exe', 'vms': 1.52734375}
+{'pid': 17508, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 10.6953125}
+{'pid': 17548, 'username': None, 'name': 'svchost.exe', 'vms': 1.42578125}
+{'pid': 17992, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 2.3203125}
+{'pid': 18580, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'cmd.exe', 'vms': 1.8671875}
+{'pid': 18684, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'SecurityHealthSystray.exe', 'vms': 2.09375}
+{'pid': 18724, 'username': None, 'name': 'SecurityHealthService.exe', 'vms': 8.55859375}
+{'pid': 18748, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 1.71875}
+{'pid': 18760, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RtkAudUService64.exe', 'vms': 26.2578125}
+{'pid': 18968, 'username': None, 'name': 'mc-neo-host.exe', 'vms': 19.0703125}
+{'pid': 19032, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'OneDrive.exe', 'vms': 104.87109375}
+{'pid': 19172, 'username': None, 'name': 'svchost.exe', 'vms': 2.2109375}
+{'pid': 19188, 'username': None, 'name': 'svchost.exe', 'vms': 12.12109375}
+{'pid': 19256, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'FileCoAuth.exe', 'vms': 13.05078125}
+{'pid': 19552, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 71.6171875}
+{'pid': 19608, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 157.52734375}
+{'pid': 19628, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ShellExperienceHost.exe', 'vms': 98.734375}
+{'pid': 19820, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'unsecapp.exe', 'vms': 2.296875}
+{'pid': 19832, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 378.41796875}
+{'pid': 20088, 'username': None, 'name': 'svchost.exe', 'vms': 8.83984375}
+{'pid': 20120, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 6.24609375}
+{'pid': 20252, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 88.8828125}
+{'pid': 20312, 'username': None, 'name': 'svchost.exe', 'vms': 5.03515625}
+{'pid': 20328, 'username': None, 'name': 'svchost.exe', 'vms': 3.84375}
+{'pid': 20452, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 706.66796875}
+{'pid': 20476, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 1.3828125}
+{'pid': 20528, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'conhost.exe', 'vms': 1.14453125}
+{'pid': 20572, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Copilot.exe', 'vms': 382.2421875}
+{'pid': 20808, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ONENOTEM.EXE', 'vms': 3.08203125}
+{'pid': 20836, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'jusched.exe', 'vms': 2.4765625}
+{'pid': 20936, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 41.8359375}
+{'pid': 21228, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'DataExchangeHost.exe', 'vms': 27.5546875}
+{'pid': 21292, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'svchost.exe', 'vms': 1.87890625}
+{'pid': 21396, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 44.734375}
+{'pid': 21668, 'username': None, 'name': 'svchost.exe', 'vms': 7.296875}
+{'pid': 21800, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedgewebview2.exe', 'vms': 242.109375}
+{'pid': 21956, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 15.2734375}
+{'pid': 22128, 'username': None, 'name': 'conhost.exe', 'vms': 1.09375}
+{'pid': 22356, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'HPSystemEventUtilityHost.exe', 'vms': 34.32421875}
+{'pid': 22388, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 41.328125}
+{'pid': 22396, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'LockApp.exe', 'vms': 59.03125}
+{'pid': 22444, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'dllhost.exe', 'vms': 2.828125}
+{'pid': 22512, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'powershell.exe', 'vms': 53.58203125}
+{'pid': 22784, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'WhatsApp.exe', 'vms': 90.51171875}
+{'pid': 22852, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 209.92578125}
+{'pid': 22952, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'cmd.exe', 'vms': 1.94921875}
+{'pid': 23536, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 401.4765625}
+{'pid': 23724, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 180.94921875}
+{'pid': 23860, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'backgroundTaskHost.exe', 'vms': 12.70703125}
+{'pid': 24196, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 3.69140625}
+{'pid': 24240, 'username': None, 'name': 'svchost.exe', 'vms': 6.4765625}
+{'pid': 24300, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'backgroundTaskHost.exe', 'vms': 17.08984375}
+{'pid': 24412, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'cmd.exe', 'vms': 2.5234375}
+{'pid': 24640, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'RuntimeBroker.exe', 'vms': 1.29296875}
+{'pid': 24880, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'OpenConsole.exe', 'vms': 2.8359375}
+{'pid': 25008, 'username': None, 'name': 'PresentMonService.exe', 'vms': 6.38671875}
+{'pid': 25076, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'dllhost.exe', 'vms': 2.73828125}
+{'pid': 25264, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 8.171875}
+{'pid': 25700, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 36.1015625}
+{'pid': 25764, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 207.03125}
+{'pid': 25784, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 41.70703125}
+{'pid': 25912, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'chrome.exe', 'vms': 40.46484375}
+{'pid': 25972, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 20.87109375}
+{'pid': 26116, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'msedge.exe', 'vms': 2.30078125}
+{'pid': 26216, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 190.01953125}
+{'pid': 26280, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'ShellHost.exe', 'vms': 37.640625}
+{'pid': 26388, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'Code.exe', 'vms': 142.578125}
+{'pid': 26656, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'backgroundTaskHost.exe', 'vms': 18.328125}
+{'pid': 27144, 'username': 'DESKTOP-BU7GJUF\\SUDEEP A KULKARNI', 'name': 'python.exe', 'vms': 9.296875}

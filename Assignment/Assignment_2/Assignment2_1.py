@@ -1,0 +1,11 @@
+from Arithmetic import Division,Addition,Multiplication,Subtraction
+A = int(input("enter a number"))
+B = int(input("enter a number"))
+ret  = Division(A, B)
+print("division is ",ret)
+ret  = Multiplication(A, B)
+print("Multiplication is ",ret )
+ret = Subtraction(A,B)
+print("Subtraction is ",ret)
+ret = Addition(A,B)
+print("Addition is ",ret)
